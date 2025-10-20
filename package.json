@@ -1,5 +1,10 @@
 {
   "devDependencies": {
-    "vitepress": "^2.0.0-alpha.12"
+    "vitepress": "2.0.0-alpha.12"
+  },
+  "scripts": {
+    "build": "vitepress build",
+    "dev": "vitepress dev",
+    "serve": "vitepress serve"
   }
 }
